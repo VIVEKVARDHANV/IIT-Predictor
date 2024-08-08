@@ -12,21 +12,6 @@ IIT-PREDICTOR is a web application that predicts the chances of admission into I
 - Data visualization: The application provides graphical representations of data to help users understand the prediction results effectively.
 - Responsive design: The user interface is designed to work seamlessly on different devices and screen sizes.
 
-## Contributors
-
-We would like to thank the following contributors for their valuable contributions to IIT-PREDICTOR:
-
-- Alexander([@alexravi](https://github.com/alexravi))
-- Sravya Vardhini([@SravyaVardhani](https://github.com/SravyaVardhani))
-- Likitha ([@Suppu2004](https://github.com/Suppu2004))
-- Shinjini ([@shinjini72](https://github.com/shinjini72))
-- Gayatri([@Gayathri1073](https://github.com/Gayathri1073))
-- Vallabh([@Sri-Vallabh](https://github.com/Sri-Vallabh))
-
-Contributions are welcome! If you find any issues or have suggestions for improvements, please open an issue or submit a pull request.
-
-Before contributing, please review the [contribution guidelines](CONTRIBUTING.md).
-
 ## Setup
 
 Follow these steps to set up IIT-PREDICTOR locally:
