@@ -89,6 +89,6 @@ IIT-PREDICTOR is released under the [MIT License](LICENSE).
 
 ## Acknowledgements
 
-IIT-PREDICTOR was created by Alex Ravi as a personal project and is provided as an open-source application for others to use and learn from. The project utilizes various open-source libraries and tools, to which the author expresses gratitude.
+IIT-PREDICTOR was created by Vivek Vardhan as a personal project and is provided as an open-source application for others to use and learn from. The project utilizes various open-source libraries and tools, to which the author expresses gratitude.
 
 Special thanks to the Python and Flask communities for their valuable contributions and support.
