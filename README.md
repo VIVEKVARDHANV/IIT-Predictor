@@ -26,7 +26,7 @@ Follow these steps to set up IIT-PREDICTOR locally:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/alexravi/IIT-PREDICTOR.git
+   git clone https://github.com/VIVEKVARDHANV/IIT-Predictor-Project.git
    ```
 
 2. Change to the project directory:
