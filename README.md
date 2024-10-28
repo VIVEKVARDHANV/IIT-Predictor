@@ -1,4 +1,4 @@
-Certainly! Here's a README file for the IIT-PREDICTOR project on GitHub:
+<img width="1512" alt="1" src="https://github.com/user-attachments/assets/17ce66cd-102d-4d4e-8df2-4515ee173e79">Certainly! Here's a README file for the IIT-PREDICTOR project on GitHub:
 
 # IIT-PREDICTOR
 
@@ -78,14 +78,12 @@ Follow these steps to set up IIT-PREDICTOR locally:
 3. Click the "Predict" button to view the chances of admission.
 
 ## SNAPSHOTS
-<img width="1512" alt="Screenshot 2023-07-03 at 2 35 33 PM" src="https://github.com/VIVEKVARDHANV/IIT-Predictor-Project/assets/69623604/7f99afbf-7e9d-4ce9-b9ea-13c972f12454">
-<img width="1512" alt="Screenshot 2023-07-03 at 2 36 04 PM" src="https://github.com/VIVEKVARDHANV/IIT-Predictor-Project/assets/69623604/47387392-fe91-40e3-b03f-2dbedd7c925a">
-<img width="1512" alt="Screenshot 2023-07-03 at 2 36 12 PM" src="https://github.com/alexravi/IIT-PREDICTOR/assets/69623604/a9a1e70a-2076-4bc5-85f6-58da92c998b9">
-<img width="1512" alt="Screenshot 2023-07-03 at 2 36 19 PM" src="https://github.com/alexravi/IIT-PREDICTOR/assets/69623604/76210cab-92af-46ff-90ab-113057a8560e">
 
-## License
+<img width="1512" alt="1" src="https://github.com/user-attachments/assets/506d09dd-d36a-43ac-bdc7-9fbf7f44b523">
+<img width="1512" alt="2" src="https://github.com/user-attachments/assets/4fd9db9d-0893-48b2-937d-9a1df27f8aed">
+<img width="1512" alt="3" src="https://github.com/user-attachments/assets/4ea7af69-2f22-406f-a355-9f5d915002dc">
+<img width="1512" alt="4" src="https://github.com/user-attachments/assets/9379a52a-58d4-4b27-a0a2-a3949ca64023">
 
-IIT-PREDICTOR is released under the [MIT License](LICENSE).
 
 ## Acknowledgements
 
