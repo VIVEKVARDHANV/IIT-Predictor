@@ -32,7 +32,7 @@ Follow these steps to set up IIT-PREDICTOR locally:
 2. Change to the project directory:
 
    ```bash
-   cd IIT-PREDICTOR
+   cd IIT-Predictor-Project
    ```
 
 3. Create a virtual environment:
